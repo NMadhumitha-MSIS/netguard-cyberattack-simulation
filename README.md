@@ -1,4 +1,4 @@
-# NetGuard — Real-Time Network Attack Detection & Isolation Simulator
+# NetGuard - Real Time Network Attack Detection & Isolation Simulator
 
 ## Overview
 NetGuard is a Java Swing-based simulation that visualizes packet movement through a network graph, detects malicious packet behavior, and models real-time node infection and automated isolation. The system demonstrates graph routing (Dijkstra) using a custom MinHeap and course-style custom ADTs.
