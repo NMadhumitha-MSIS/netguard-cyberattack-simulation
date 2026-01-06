@@ -70,8 +70,8 @@ Implemented using nested `javax.swing.Timer`.
   - Malicious packet: red
 
 ## Project Deliverables
-- 📄 Run Guide: `docs/Readme_Team12.pdf`
-- 📊 Slides: `docs/FINAL PROJECT PRESENTATION – NETGUARD.pptx`
+- Run Guide: `docs/Readme_Team12.pdf`
+- Slides: `docs/FINAL PROJECT PRESENTATION – NETGUARD.pptx`
 
 ## Known Limitations
 - Large graphs (>20 nodes) reduce FPS
