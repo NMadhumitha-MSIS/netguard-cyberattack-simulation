@@ -71,10 +71,10 @@ Implemented using nested `javax.swing.Timer`.
 ## Demo Screenshots
 
 ### Simulation View
-![NetGuard Simulation](assets/netguard-simulation.png)
+![NetGuard Simulation](assests/netguard-simulation.png)
 
 ### Infection & Isolation
-![Infection Propagation](assets/netguard-infection.png)
+![Infection Propagation](assests/netguard-infection.png)
 
 ## Project Deliverables
 - Run Guide: `docs/Readme_Team12.pdf`
