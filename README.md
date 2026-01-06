@@ -77,6 +77,3 @@ Implemented using nested `javax.swing.Timer`.
 - Large graphs (>20 nodes) reduce FPS
 - Infection cascade timers can overlap if many packets hit at once
 - GUI optimized for ~900×700 window
-- 
-## Credits / Contributions
-(If you want, we can add a clean “Team contributions” section from your slides.)
