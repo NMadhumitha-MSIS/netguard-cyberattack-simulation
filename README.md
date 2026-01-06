@@ -68,6 +68,13 @@ Implemented using nested `javax.swing.Timer`.
   - Isolated: gray
   - Safe packet: blue
   - Malicious packet: red
+## Demo Screenshots
+
+### Simulation View
+![NetGuard Simulation](assets/netguard-simulation.png)
+
+### Infection & Isolation
+![Infection Propagation](assets/netguard-infection.png)
 
 ## Project Deliverables
 - Run Guide: `docs/Readme_Team12.pdf`
