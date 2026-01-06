@@ -23,7 +23,7 @@ NetGuard is a Java Swing-based simulation that visualizes packet movement throug
 
 Implemented using nested `javax.swing.Timer`.
 
-### 3) Real-Time Animation Loop
+### 3) Real Time Animation Loop
 - Swing timer fires every ~30 ms (**~33 FPS**)
 - Smooth packet movement using linear interpolation
 - Live status updates during simulation
@@ -36,7 +36,7 @@ Implemented using nested `javax.swing.Timer`.
 
 ## How to Run
 
-### Option A — NetBeans (Recommended for GUI)
+### Option A - NetBeans (Recommended for GUI)
 1. Install **Java JDK 19+**
 2. Open NetBeans → **File → Open Project**
 3. Select the folder that contains:
@@ -46,10 +46,10 @@ Implemented using nested `javax.swing.Timer`.
 4. If you see “Broken Platform Reference”:
    - Right-click project → Properties → Libraries → Java Platform → select **JDK 19+**
 5. Run:
-   - Right-click `Netguard.java` → Run File  
+   - Right click `Netguard.java` → Run File  
    OR press the green Run button
 
-### Option B — Eclipse
+### Option B - Eclipse
 1. Eclipse → File → Import → General → Existing Projects into Workspace
 2. Browse to the NetGuard folder → Finish
 3. Run:
@@ -71,7 +71,7 @@ Implemented using nested `javax.swing.Timer`.
 
 ## Project Deliverables
 - Run Guide: `docs/Readme_Team12.pdf`
-- Slides: `docs/FINAL PROJECT PRESENTATION – NETGUARD.pptx`
+- Slides: `docs/FINAL PROJECT PRESENTATION - NETGUARD.pptx`
 
 ## Known Limitations
 - Large graphs (>20 nodes) reduce FPS
